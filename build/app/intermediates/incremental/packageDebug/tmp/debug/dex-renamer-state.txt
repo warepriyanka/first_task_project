@@ -1,0 +1,4 @@
+#Thu Aug 04 16:13:47 IST 2022
+base.0=/Users/Apple/Documents/Work/first_task_project/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
